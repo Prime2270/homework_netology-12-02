@@ -30,11 +30,11 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 Результатом работы должны быть скриншоты обозначенных заданий, а также простыня со всеми запросами.
 ```
 
-![job1.3]()
+![job1.3](https://github.com/Prime2270/homework_netology-12-02/blob/main/screenshots/job1.3.png)
 
-![job1.5]()
+![job1.5](https://github.com/Prime2270/homework_netology-12-02/blob/main/screenshots/job1.5.png)
 
-![job1.8]()
+![job1.8](https://github.com/Prime2270/homework_netology-12-02/blob/main/screenshots/job1.8.png)
 
 ```
 авторизация в mysql
@@ -76,4 +76,4 @@ SHOW COLUMNS FROM <имя столбца>;
 Название таблицы | Название первичного ключа
 customer         | customer_id
 ```
-![job1.5]()
+![job2](https://github.com/Prime2270/homework_netology-12-02/blob/main/screenshots/job2.png)
